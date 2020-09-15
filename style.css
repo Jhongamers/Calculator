@@ -1,0 +1,49 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+    background-image:url('fullhd-image.jpg');
+}
+.main{
+ position:absolute;
+  left:50%;
+  top:50%;
+  transform:TranslateX(-50%) TranslateY(-50%);
+}
+.button{
+  width:50px;
+  height:50px;
+  margin:2px;
+  font-size:25px;
+  background-color:#77809e6e;
+}
+.clean{
+   width:50px;
+   height:50px;
+   margin:2px;
+   font-size:25px;
+  background-color:#77809e6e;
+} 
+.cleanNumb{
+   width:50px;
+   height:50px;
+   margin:2px;
+   font-size:25px;
+   background-color:#77809e6e;
+}
+.resul{
+    width:50px;
+    height:50px;
+    margin:2px;
+    font-size:25px;
+  background-color:#77809e6e;
+}
+.textview{
+  width:220px;
+  padding:5px;
+  font-size:25px;
+  margin:4px;
+  background-color:#77809e6e;
+  
+}
